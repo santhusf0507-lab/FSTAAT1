@@ -1,6 +1,6 @@
 # Student Expense Tracker — PocketWise
 
-**Repository:** https://github.com/santhusf0507-lab/FSTAAT1
+**GitHub repository:** https://github.com/santhusf0507-lab/FSTAAT1
 
 PocketWise is a student expense tracker built with React, Vite, Node.js, Express, and MongoDB-compatible storage. It helps students record expenses, monitor monthly budgets, and review spending by category.
 
@@ -39,7 +39,7 @@ FSTAAT1/
 │       ├── main.jsx
 │       └── styles.css
 ├── screenshots/
-├── AAT1_Report.pdf
+│   └── github-repository-layout-illustrative.svg
 ├── .gitignore
 └── README.md
 ```
@@ -84,8 +84,8 @@ VITE_API_URL=http://localhost:5000
 | DELETE | `/api/expenses/:id` | Delete an expense |
 | GET | `/api/analytics?month=YYYY-MM` | Monthly totals and category summary |
 
-## Screenshots and report
-The `screenshots/` directory is intended for project interface screenshots. Repository-layout illustrations should be identified as illustrative rather than live GitHub screenshots. The AAT-1 report can be stored as `AAT1_Report.pdf`.
+## Repository preview
+The `screenshots/github-repository-layout-illustrative.svg` file is an illustrative layout preview, not a live screenshot of GitHub.
 
 ## Security
 - Never commit a real `.env` file or database credentials.
