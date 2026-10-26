@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect width="1200" height="620" fill="#f6f8fa"/>
+  <rect x="0" y="0" width="1200" height="64" fill="#ffffff" stroke="#d0d7de"/>
+  <circle cx="34" cy="32" r="11" fill="#24292f"/><text x="56" y="39" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#24292f">GitHub</text>
+  <rect x="28" y="94" width="1144" height="492" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="58" y="137" font-family="Arial,sans-serif" font-size="16" fill="#0969da">santhusf0507-lab</text><text x="201" y="137" font-family="Arial,sans-serif" font-size="16" fill="#57606a">/</text><text x="219" y="137" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#0969da">FSTAAT1</text>
+  <rect x="1000" y="111" width="138" height="34" rx="7" fill="#f6f8fa" stroke="#d0d7de"/><text x="1069" y="133" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#24292f">Public repository</text>
+  <line x1="58" y1="160" x2="1140" y2="160" stroke="#d8dee4"/>
+  <rect x="58" y="181" width="1082" height="52" rx="7" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="80" y="212" font-family="Arial,sans-serif" font-size="14" fill="#24292f">main</text><text x="210" y="212" font-family="Arial,sans-serif" font-size="13" fill="#57606a">Project source and documentation</text>
+  <g font-family="Arial,sans-serif" font-size="15" fill="#0969da">
+    <text x="100" y="274">📁 backend/</text><text x="100" y="323">📁 frontend/</text><text x="100" y="372">📁 screenshots/</text><text x="100" y="421">📄 .gitignore</text><text x="100" y="470">📄 AAT1_Report.pdf</text><text x="100" y="519">📄 README.md</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="13" fill="#57606a">
+    <text x="520" y="274">Express API and MongoDB model</text><text x="520" y="323">React + Vite application</text><text x="520" y="372">UI previews and documentation images</text><text x="520" y="421">Ignored files and build artifacts</text><text x="520" y="470">Project report PDF (to be uploaded)</text><text x="520" y="519">Setup and run instructions</text>
+  </g>
+  <text x="600" y="600" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#6e7781">Illustrative repository layout — not a live screenshot of GitHub</text>
+</svg>
